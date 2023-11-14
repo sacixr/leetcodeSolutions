@@ -5,3 +5,6 @@ A way of challenging myself to complete leetcode solutions once a day. In an att
 
 ## Status
 This project's current status is: early development.
+
+## Note
+Due to the state of the project, all commits will be made to main.
