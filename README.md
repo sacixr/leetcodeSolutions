@@ -9,9 +9,8 @@ This project's current status is: ongoing.
 ## Tracker
 Leetcode solutions done so far:
 1. Two Sum
-49. Group Anagrams
-125. Valid Palindrome
-167. Two Sum II - Input Array Is Sorted
-169. Majority Element
-
-? - Max Profit Problem
+2. Group Anagrams [49]
+3. Valid Palindrome [125]
+4. Two Sum II - Input Array Is Sorted [167]
+5. Majority Element [169]
+6. Max Profit Problem [?]
