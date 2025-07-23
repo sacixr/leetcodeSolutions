@@ -1,10 +1,17 @@
 # Leetcode Solutions
 
 ## Description
-A way of challenging myself to complete leetcode solutions once a day. In an attempt to motivate myself to complete smaller coding tasks alongside my University work, I have decided to challenge myself to complete one leetcode solution until the end of this year. That is, from the 14/11/2023, 48 days. By the end of this project, there should be 48 completed leetcode questions in the repository.
+A way of challenging myself to complete leetcode solutions once a day. Contains all solutions to below leetcode problems, primarily in Python.
 
 ## Status
-This project's current status is: early development.
+This project's current status is: ongoing.
 
-## Note
-Due to the state of the project, all commits will be made to main.
+## Tracker
+Leetcode solutions done so far:
+1. Two Sum
+49. Group Anagrams
+125. Valid Palindrome
+167. Two Sum II - Input Array Is Sorted
+169. Majority Element
+
+? - Max Profit Problem
