@@ -8,10 +8,11 @@ This project's current status is: ongoing.
 
 ## Tracker :notebook_with_decorative_cover:
 Problems completed so far:
-- [1] Two Sum >>> 04.12.23
-- [2] Add Two Numbers >>> 24.07.25
-- [38] Count and Say >>> 25.07.25
+- [1] Two Sum >>> 04.12.2023
+- [2] Add Two Numbers >>> 24.07.2025
+- [38] Count and Say >>> 25.07.2025
 - [49] Group Anagrams >>> 19.11.2023
+- [53] Maximum Subarray >>> 26.07.2025
 - [121] Best Time to Buy and Sell Stock >>> 15.11.2023
 - [125] Valid Palindrome >>> 16.11.2023
 - [167] Two Sum II - Input Array Is Sorted >>> 18.11.2023
