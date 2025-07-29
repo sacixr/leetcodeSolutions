@@ -10,6 +10,7 @@ This project's current status is: ongoing.
 Problems completed so far:
 - [1] Two Sum >>> 04.12.2023
 - [2] Add Two Numbers >>> 24.07.2025
+- [9] Palindrome Number >>> 29.07.2025
 - [38] Count and Say >>> 25.07.2025
 - [49] Group Anagrams >>> 19.11.2023
 - [53] Maximum Subarray >>> 26.07.2025
