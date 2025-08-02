@@ -19,4 +19,5 @@ Problems completed so far:
 - [125] Valid Palindrome >>> 16.11.2023
 - [167] Two Sum II - Input Array Is Sorted >>> 18.11.2023
 - [169] Majority Element >>> 14.11.2023
+- [566] Reshape the Matrix >>> 02.08.2025
 - [2210] Count Hills and Valleys in an Array >>> 27.07.2025
