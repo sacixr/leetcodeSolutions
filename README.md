@@ -11,6 +11,7 @@ Problems completed so far:
 - [1] Two Sum >>> 04.12.2023
 - [2] Add Two Numbers >>> 24.07.2025
 - [9] Palindrome Number >>> 29.07.2025
+- [13] Roman to Integer >>> 06.08.2025
 - [34] Find First and Last Position of Element in Sorted Array >>> 03.08.25
 - [38] Count and Say >>> 25.07.2025
 - [49] Group Anagrams >>> 19.11.2023
