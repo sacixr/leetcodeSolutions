@@ -28,6 +28,7 @@ Problems completed so far:
 - [566] Reshape the Matrix >>> 02.08.2025
 - [904] Fruits Into Baskets >> 04.08.2025
 - [1130] Minimum Cost Tree From Leaf Values >> 02.12.2025
+- [1417] Reformat The String >> 06.12.2025
 - [1436] Destination City >> 21.08.2025
 - [2210] Count Hills and Valleys in an Array >>> 27.07.2025
 - [3477] Fruits Into Baskets II >>> 05.08.2025
