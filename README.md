@@ -31,3 +31,4 @@ Problems completed so far:
 - [1436] Destination City >> 21.08.2025
 - [2210] Count Hills and Valleys in an Array >>> 27.07.2025
 - [3477] Fruits Into Baskets II >>> 05.08.2025
+- [3583] Count Special Triplets >>> 09.12.2025
